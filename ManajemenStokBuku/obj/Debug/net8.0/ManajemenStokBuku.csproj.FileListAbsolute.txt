@@ -1,0 +1,12 @@
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\bin\Debug\net8.0\ManajemenStokBuku.deps.json
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\bin\Debug\net8.0\ManajemenStokBuku.dll
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\bin\Debug\net8.0\ManajemenStokBuku.pdb
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.csproj.AssemblyReference.cache
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.AssemblyInfoInputs.cache
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.AssemblyInfo.cs
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.csproj.CoreCompileInputs.cache
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.dll
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\refint\ManajemenStokBuku.dll
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ManajemenStokBuku.pdb
+C:\Users\dhafg\source\repos\PustakaCeriaV2\ManajemenStokBuku\obj\Debug\net8.0\ref\ManajemenStokBuku.dll

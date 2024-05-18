@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A562501-4316-4980-9F36-8734A7892DB6}|PustakaCeriaV2Tests\\PustakaCeriaV2Tests.csproj|c:\\users\\dhafg\\source\\repos\\pustakaceriav2\\pustakaceriav2tests\\menu\\riwayatpeminjamantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A562501-4316-4980-9F36-8734A7892DB6}|PustakaCeriaV2Tests\\PustakaCeriaV2Tests.csproj|solutionrelative:pustakaceriav2tests\\menu\\riwayatpeminjamantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FA19F1-58F8-409F-852D-F372330B1003}|PustakaCeriaV2\\PustakaCeriaV2.csproj|c:\\users\\dhafg\\source\\repos\\pustakaceriav2\\pustakaceriav2\\menu\\riwayatpeminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA19F1-58F8-409F-852D-F372330B1003}|PustakaCeriaV2\\PustakaCeriaV2.csproj|solutionrelative:pustakaceriav2\\menu\\riwayatpeminjaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FA19F1-58F8-409F-852D-F372330B1003}|PustakaCeriaV2\\PustakaCeriaV2.csproj|c:\\users\\dhafg\\source\\repos\\pustakaceriav2\\pustakaceriav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA19F1-58F8-409F-852D-F372330B1003}|PustakaCeriaV2\\PustakaCeriaV2.csproj|solutionrelative:pustakaceriav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RiwayatPeminjaman.cs",
+              "DocumentMoniker": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2\\Menu\\RiwayatPeminjaman.cs",
+              "RelativeDocumentMoniker": "PustakaCeriaV2\\Menu\\RiwayatPeminjaman.cs",
+              "ToolTip": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2\\Menu\\RiwayatPeminjaman.cs",
+              "RelativeToolTip": "PustakaCeriaV2\\Menu\\RiwayatPeminjaman.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwDcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:56:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RiwayatPeminjamanTests.cs",
+              "DocumentMoniker": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2Tests\\Menu\\RiwayatPeminjamanTests.cs",
+              "RelativeDocumentMoniker": "PustakaCeriaV2Tests\\Menu\\RiwayatPeminjamanTests.cs",
+              "ToolTip": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2Tests\\Menu\\RiwayatPeminjamanTests.cs",
+              "RelativeToolTip": "PustakaCeriaV2Tests\\Menu\\RiwayatPeminjamanTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:53:58.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2\\Program.cs",
+              "RelativeDocumentMoniker": "PustakaCeriaV2\\Program.cs",
+              "ToolTip": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\PustakaCeriaV2\\Program.cs",
+              "RelativeToolTip": "PustakaCeriaV2\\Program.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAFMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:17:06.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

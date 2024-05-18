@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxEGfa9kmH9+pp9vlM/y2ziK1ViXrqImwAu3RGzJuQTR2xnKPMjrarElSg0QTRv1hYGh6fghHV66WmYKszlV0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhafg\\source\\repos\\PustakaCeriaV2\\ManajemenStokBuku\\ManajemenStokBuku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhafg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

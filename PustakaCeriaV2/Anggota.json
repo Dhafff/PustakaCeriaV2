@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Nama": "Rywa",
+    "Nohp": "1234124",
+    "Alamat": "Sukapura"
+  },
+  {
+    "Id": 2,
+    "Nama": "Deni",
+    "Nohp": "134134",
+    "Alamat": "Bandung"
+  },
+  {
+    "Id": 3,
+    "Nama": "Rifky",
+    "Nohp": "134134",
+    "Alamat": "Garut"
+  },
+  {
+    "Id": 4,
+    "Nama": "Firdaus",
+    "Nohp": "134134",
+    "Alamat": "Jakarta"
+  }
+]
